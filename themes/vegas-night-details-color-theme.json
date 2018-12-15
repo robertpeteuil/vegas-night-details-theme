@@ -625,6 +625,31 @@
 			}
 		},
 		{
+			"name": "HCL Entity Name Type",
+			"scope": [
+				"entity.name.type.hcl"
+			],
+			"settings": {
+				"foreground": "#99CCFF"
+			}
+		}, {
+			"name": "HCL Variables",
+			"scope": [
+				"variable.parameter.hcl"
+			],
+			"settings": {
+				"foreground": "#c4c4c4"
+			}
+		}, {
+			"name": "HCL Interpolation Functions",
+			"scope": [
+				"entity.name.function.hcl"
+			],
+			"settings": {
+				"foreground": "#EDC477"
+			}
+		},
+		{
 			"name": "JS Sub-methods",
 			"scope": [
 				"entity.name.module.js",
