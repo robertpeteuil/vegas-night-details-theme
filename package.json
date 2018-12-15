@@ -6,7 +6,7 @@
     "publisher": "robpco",
     "license": "MIT",
     "galleryBanner": {
-        "color": "#999999",
+        "color": "#cccccc",
         "theme": "light"
     },
     "engines": {
