@@ -1,4 +1,4 @@
-# Vegas Night Theme for VS Code
+# Vegas Night Details Theme
 
 ## Dark UI, Syntax and Punctuation Highlighting
 
