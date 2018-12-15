@@ -1,0 +1,22 @@
+{
+    "name": "vegas-night-details-theme",
+    "displayName": "vegas-night-details-theme",
+    "description": "Detailed Dark UI, Syntax and Punctuation Highlighting",
+    "version": "1.0.0",
+    "publisher": "robertpeteuil",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vegas Night Details Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vegas-night-details-color-theme.json"
+            }
+        ]
+    }
+}
