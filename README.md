@@ -1,36 +1,72 @@
 # Vegas Night Details Theme
 
-## Dark UI, Syntax and Punctuation Highlighting
+## Dark UI and Detailed Syntax Theme
 
-A dark UI and syntax theme for VisualStudio Code providing detailed colorization of syntax elements and punctation.
+Dark Theme for Visual Studio Code with detailed colorization of syntax elements and punctation.
 
-## Tested Languages
+- Syntax colors selected to allow quick identification of syntax elements
+- Dark IDE elements that provide contrast with shades of dark grey
 
-This theme has been tested with the following languages and document types:
+## IDE Screenshot (go syntax preview)
 
-- bash
-- c
-- c++
-- cpp
-- css
-- Dockerfile
-- docker-compose
-- go
-- html
-- ini
-- javascript (js)
-- json
-- markdown (md)
-- php
-- python
-- R
-- ruby (rb)
-- ReStructured Text (rst)
-- shell script (sh)
-- Terraform (tf)
-- xml
-- yaml
+![ide](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/ide.png)
 
-## Branches
+- Screenshot includes [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) extension
 
-The `develop` branch of this repo has frequent changes and adjustments.  Use `master` for stable releases.
+## Install
+
+Follow the instructions in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=robpco.vegas-night-details-theme), or run the following in the command palette:
+
+``` js
+ext install robpco.vegas-night-details-theme
+```
+
+## Language and Document Previews
+
+- [bash](#-shellscript-(bash))
+- [html](#-html)
+- [javascript (js)](#-javascript)
+- [json](#-json)
+- [markdown (md)](#-markdown)
+- [php](#-php)
+- [python](#-python)
+- [R](#-r)
+- [shell script (sh)](#-shellscript-(bash))
+- [Terraform (tf)](#-terraform)
+  - Using [Terraform Language](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) extension
+
+### HTML
+
+![html](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/html.png)
+
+### javascript
+
+![javascript](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/js.png)
+
+### JSON
+
+![JSON](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/json.png)
+
+### Markdown
+
+![Markdown](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/markdown.png)
+
+### PHP
+
+![php](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/php.png)
+
+### Python
+
+![python](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/python.png)
+
+### R
+
+![R](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/R.png)
+
+### Shellscript (bash)
+
+![shell](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/shell.png)
+
+### Terraform
+
+![terraform](https://github.com/robertpeteuil/vegas-night-details-theme/blob/develop/images/terraform.png)
