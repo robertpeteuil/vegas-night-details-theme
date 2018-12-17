@@ -2,6 +2,10 @@
 
 All notable changes to the "vegas-night-details-theme" extension will be documented in this file.
 
+## Version 0.2.1
+
+- fix readme inline images
+
 ## Version 0.2.0
 
 - adjust marketplace view

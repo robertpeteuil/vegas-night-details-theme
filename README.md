@@ -9,7 +9,7 @@ Dark Theme for Visual Studio Code with detailed colorization of syntax elements 
 
 ## IDE Preview with go syntax
 
-![ide](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/ide.png)
+![ide](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/ide.png)
 
 - Screenshot includes [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) extension
 
@@ -37,36 +37,36 @@ ext install robpco.vegas-night-details-theme
 
 ### HTML
 
-![html](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/html.png)
+![html](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/html.png)
 
 ### javascript
 
-![javascript](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/js.png)
+![javascript](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/js.png)
 
 ### JSON
 
-![JSON](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/json.png)
+![JSON](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/json.png)
 
 ### Markdown
 
-![Markdown](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/markdown.png)
+![Markdown](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/markdown.png)
 
 ### PHP
 
-![php](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/php.png)
+![php](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/php.png)
 
 ### Python
 
-![python](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/python.png)
+![python](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/python.png)
 
 ### R
 
-![R](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/R.png)
+![R](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/R.png)
 
 ### Shellscript (bash)
 
-![shell](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/shell.png)
+![shell](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/shell.png)
 
 ### Terraform
 
-![terraform](https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/images/terraform.png)
+![terraform](https://raw.githubusercontent.com/robertpeteuil/vegas-night-details-theme/master/images/terraform.png)
