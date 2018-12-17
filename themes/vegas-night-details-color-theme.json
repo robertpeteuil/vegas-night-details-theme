@@ -625,28 +625,44 @@
 			}
 		},
 		{
-			"name": "HCL Entity Name Type",
+			"name": "Terraform / HCL Entity Name Type",
 			"scope": [
-				"entity.name.type.hcl"
+				"entity.name.type.hcl",
+				"source.terraform.embedded.source"
 			],
 			"settings": {
 				"foreground": "#99CCFF"
 			}
-		}, {
+		},
+		{
+			"name": "Terraform / HCL Interpolation Functions",
+			"scope": [
+				"entity.name.function.hcl",
+				"keyword.other.function.inline.terraform",
+				"keyword.other.section.begin.terraform",
+				"keyword.other.section.end.terraform"
+			],
+			"settings": {
+				"foreground": "#EDC477"
+			}
+		},
+		{
+			"name": "Terraform References",
+			"scope": [
+				"entity.tag.embedded.start.terraform",
+				"entity.tag.embedded.end.terraform"
+			],
+			"settings": {
+				"foreground": "#3399FF"
+			}
+		},
+		{
 			"name": "HCL Variables",
 			"scope": [
 				"variable.parameter.hcl"
 			],
 			"settings": {
 				"foreground": "#cccccc"
-			}
-		}, {
-			"name": "HCL Interpolation Functions",
-			"scope": [
-				"entity.name.function.hcl"
-			],
-			"settings": {
-				"foreground": "#EDC477"
 			}
 		},
 		{
