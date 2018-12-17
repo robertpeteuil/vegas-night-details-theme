@@ -1,8 +1,8 @@
 {
-    "name": "vegas-night-details-theme",
-    "displayName": "Vegas Night Details Theme",
+    "name": "vegas-night-details-theme-beta",
+    "displayName": "Vegas Night Details Theme Beta",
     "description": "Detailed Dark UI, Syntax and Punctuation Highlighting",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "publisher": "robpco",
     "license": "MIT",
     "icon": "images/icon-512.png",
@@ -28,7 +28,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Vegas Night Details Theme",
+                "label": "Vegas Night Details Theme Beta",
                 "uiTheme": "vs-dark",
                 "path": "./themes/vegas-night-details-color-theme.json"
             }
