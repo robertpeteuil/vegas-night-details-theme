@@ -649,10 +649,11 @@
 		{
 			"name": "Terraform References",
 			"scope": [
-				"source.terraform.embedded.source"
+				"entity.tag.embedded.start.terraform",
+				"entity.tag.embedded.end.terraform"
 			],
 			"settings": {
-				"foreground": "#99CCFF"
+				"foreground": "#3399FF"
 			}
 		},
 		{
