@@ -2,19 +2,29 @@
     "name": "vegas-night-details-theme",
     "displayName": "Vegas Night Details Theme",
     "description": "Detailed Dark UI, Syntax and Punctuation Highlighting",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "robpco",
     "license": "MIT",
+    "icon": "images/icon-512.png",
     "galleryBanner": {
-        "color": "#999999",
-        "theme": "light"
+        "color": "#c4c4c4",
+		"theme": "light"
     },
     "engines": {
         "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
-    ],
+	],
+	"keywords": [
+		"vscode",
+		"extension",
+		"dark",
+		"theme",
+		"syntax",
+		"details",
+		"punctuation"
+	],
     "contributes": {
         "themes": [
             {
@@ -24,7 +34,12 @@
             }
         ]
     },
-    "homepage": "https://github.com/robertpeteuil/vegas-night-details-theme/blob/master/README.md",
+	"bugs": {
+		"url": "ttps://github.com/robertpeteuil/vegas-night-details-theme/issues"
+	},
+	"author": {
+		"name": "Robert Peteuil"
+	},
     "repository": {
         "type": "git",
         "url": "https://github.com/robertpeteuil/vegas-night-details-theme.git"
