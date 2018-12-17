@@ -2,13 +2,13 @@
 
 All notable changes to the "vegas-night-details-theme" extension will be documented in this file.
 
-## Version 0.1.2
+## Version 0.2.0
 
-- adjust default white to cccccc
-- Adjust Marketplace View
-  - Change Gallery Color
-  - Add package icon
-  - Add language syntax preview screenshots
+- adjust marketplace view
+  - change gallery color
+  - add package icon
+  - add language syntax preview screenshots
+- adjust default white
 
 ## Version 0.1.1
 
